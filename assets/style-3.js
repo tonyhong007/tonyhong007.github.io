@@ -103,7 +103,7 @@ $(".papertitle").css("font-weight", ptitleweight);
 $(".papertitle").css("text-decoration", ptitledecoration);
 $(".papertitle").css("font-style", ptitlestyle);
 
-$(".schoolname").css("color", ptitlecolor);
+$(".schoolname").css("color", basecolor);
 $(".schoolname").css("font-size", ptitlefontsize);
 $(".schoolname").css("font-weight", ptitleweight);
 $(".schoolname").css("text-decoration", ptitledecoration);

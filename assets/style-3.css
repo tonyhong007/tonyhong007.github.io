@@ -47,6 +47,14 @@ a:hover {
     filter: grayscale(30%);
 }
 
+.school {
+    border-left: 1px solid #ddd;
+}
+
+.date {
+    font-size: 9pt;
+}
+
 @media (min-width: 768px) {
     .fixed-posi {
         /* width: 50%;

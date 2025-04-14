@@ -103,11 +103,11 @@ $(".papertitle").css("font-weight", ptitleweight);
 $(".papertitle").css("text-decoration", ptitledecoration);
 $(".papertitle").css("font-style", ptitlestyle);
 
-$(".schoolname").css("color", highlightcolor);
-$(".schoolname").css("font-size", ptitlefontsize);
-$(".schoolname").css("font-weight", ptitleweight);
-$(".schoolname").css("text-decoration", ptitledecoration);
-$(".schoolname").css("font-style", ptitlestyle);
+$(".sectionbody").css("color", accentcolor);
+$(".sectionbody").css("font-size", ptitlefontsize);
+$(".sectionbody").css("font-weight", ptitleweight);
+$(".sectionbody").css("text-decoration", ptitledecoration);
+$(".sectionbody").css("font-style", ptitlestyle);
 
 $(".thisauthor").css("color", selfcolor);
 $(".thisauthor").css("font-weight", selfweight);
